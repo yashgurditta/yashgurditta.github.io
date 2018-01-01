@@ -162,7 +162,7 @@ header.masthead {
   header.masthead .page-heading,
   header.masthead .post-heading,
   header.masthead .site-heading {
-    padding: 200px 0 150px;
+    padding: 75px 0 40px;
     color: white; }
     @media only screen and (min-width: 768px) {
       header.masthead .page-heading,
