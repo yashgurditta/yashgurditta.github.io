@@ -359,3 +359,7 @@ footer {
 .white-hover:focus {
   background-color: #ffffff;
 }
+  
+.masthead {
+  background-color: black;
+}
